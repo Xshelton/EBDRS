@@ -13,3 +13,7 @@ CUDA Version 10.0.130,
 CuDNN version 7.4.2,
 OS: Win 10 64bit,
 Python version: IDLE (Python 3.7 64-bit)#yep I wrote directly in IDLE :),
+
+## 3.How to run it?
+Basically, you will need to download dataset and retrain the model(from step 1)
+or you could directly load the model I trained to repeat the experiments.
