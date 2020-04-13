@@ -14,7 +14,17 @@ CuDNN version 7.4.2,
 OS: Win 10 64bit,  
 Python version: IDLE (Python 3.7 64-bit)#yep I wrote directly in IDLE :),  
 
-## 3.How to run it?
+## 3.Package needed
+
+PyQt5 5.10.1(for UI)
+Pandas 0.24.1(for file read)
+Sklearn 0.0(for comparison)
+tensorflow-estimator 1.13.0(for LSTM)
+tensorflow-gpu 1.13.1(for LSTM)
+numpy 1.16.2(for npy read and other functions)
+matplotlib 3.0.3(for roc curve plot)
+
+## 4.How to run it?
 Basically, you will need to download dataset and retrain the model(from step 1)
 or you could directly load the model I trained to repeat the experiments.  
 1.firstly, you have to unzip “samples_embedding128_default.rar ” and put "samples_embedding128_default.csv" in the folder where the 
