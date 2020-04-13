@@ -1,4 +1,4 @@
-# Virus2Dru
+# Virus2Drug
 A Drug2vec repository for the drug prediction of COVID-19
 ## 1.project information 
 1. @ARTICLE{SG-LSTM-FRAME,
