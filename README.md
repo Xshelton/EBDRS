@@ -8,8 +8,8 @@ A Drug2vec repository for the drug prediction of COVID-19
 5. journal = {},}  
 
 ## 2.Environment
-Hardware: Core: Intel i7-7700HQ ; Graphic Card：GTX1060 6G; RAM:32 GB ddr4 2666,
-CUDA Version 10.0.130,
+[tab][tab]Hardware: Core: Intel i7-7700HQ ; Graphic Card：GTX1060 6G; RAM:32 GB ddr4 2666,
+[tab][tab]CUDA Version 10.0.130,
 CuDNN version 7.4.2,
 OS: Win 10 64bit,
 Python version: IDLE (Python 3.7 64-bit)#yep I wrote directly in IDLE :),
